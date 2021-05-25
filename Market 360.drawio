@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T11:46:59.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.7.0" etag="KkmdxFSCPTsUECZ2-QRq" type="github"><diagram id="5T8ryTa-DwjFXM72H6Bw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-25T12:02:21.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="a6y3-yTKeK7w0eAzEZgL" version="14.7.0" type="github">
+  <diagram id="5T8ryTa-DwjFXM72H6Bw" name="Page-1">
+    <mxGraphModel dx="1022" dy="1578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bdmofcA4CCK6O6f4GGw1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bdmofcA4CCK6O6f4GGw1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bdmofcA4CCK6O6f4GGw1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-1" value="Market 360&lt;br&gt;(Monthly)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="170" as="sourcePoint" />
+            <mxPoint x="540" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-4" value="Registrations by Market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-5" value="Registrations by Manufacturer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="236.25" width="120" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-7" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Requires master data &lt;br&gt;to combine Reg data &lt;br&gt;with car sales data&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="55" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-8" value="IHS Light vehicle Sales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-9" value="IHS Power Train Monthly" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="177.5" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-10" value="IHS Auto Monthly" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="225" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-16" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Need to split this &lt;br&gt;quarterly data &lt;br&gt;into Monthly&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="215" width="110" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="bdmofcA4CCK6O6f4GGw1-19" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Market 360&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-40" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
